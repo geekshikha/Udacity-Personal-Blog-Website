@@ -1,0 +1,51 @@
+
+
+  
+.learn{
+    font-size: 10px;
+    font-weight: 600;
+    color: #f2c200;
+    text-align: center;
+    text-transform: uppercase;
+}
+.video-box{
+    padding: 25px;
+}
+
+.learn p{
+    font-size: 30px;
+}
+@media (min-width: 1100px){
+    .learn{
+        font-size: 45px;
+        text-shadow: 2px 2px #1a1a1a79 ;
+    }
+    .video-box{
+        padding: 155px 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+   
+    
+
+
+
+
+    
+
+    
